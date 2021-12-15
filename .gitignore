@@ -1,0 +1,9 @@
+logs/
+.settings/
+bin/
+doc/
+lib/
+TLive.xml
+config.json
+.classpath
+.project
